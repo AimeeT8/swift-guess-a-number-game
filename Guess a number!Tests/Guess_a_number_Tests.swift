@@ -2,7 +2,7 @@
 //  Guess_a_number_Tests.swift
 //  Guess a number!Tests
 //
-//  Created by Justin Temple on 2019-08-19.
+//  Created by A Temple on 2019-08-19.
 //  Copyright © 2019 Aimee Temple. All rights reserved.
 //
 
